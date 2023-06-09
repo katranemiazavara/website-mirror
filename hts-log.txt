@@ -1,4 +1,4 @@
-HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 09 Jun 2023 20:03:11 at https://itsairborne.com
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 09 Jun 2023 20:04:24 at https://itsairborne.com
 (httrack https://itsairborne.com -O ./website-mirror )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,8 +6,11 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:03:13	Warning: 	Temporary Redirect for ./robots.txt
-20:03:13	Warning: 	File has moved from ./robots.txt to https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fitsairborne.com%2Frobots.txt
-20:03:13	Warning: 	Temporary Redirect for ./
-20:03:13	Warning: 	File has moved from ./ to https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fitsairborne.com%2F
-20:03:13	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
+20:04:24	Warning: 	Cache: damaged cache, trying to repair
+20:04:24	Warning: 	Cache: 116 bytes successfully recovered in 1 entries
+20:04:26	Warning: 	HTML file (881 bytes) retransferred due to lack of cache: ./
+20:04:26	Warning: 	Temporary Redirect for ./robots.txt
+20:04:26	Warning: 	File has moved from ./robots.txt to https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fitsairborne.com%2Frobots.txt
+20:04:27	Warning: 	Temporary Redirect for ./
+20:04:27	Warning: 	File has moved from ./ to https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fitsairborne.com%2F
+20:04:27	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
